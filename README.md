@@ -50,7 +50,8 @@ From the project directory, run:
 ```bash
 python task_cli.py <command> [arguments]
 
-Commands
+**Commands:**
+
 Add a task
 python task_cli.py add "Buy groceries"
 
